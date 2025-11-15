@@ -1,12 +1,3 @@
-/* JavaScript Document
-
-Tooplate 2147 Titan Folio
-
-https://www.tooplate.com/view/2147-titan-folio
-*/
-
-
-// Mobile menu functionality
 const mobileMenuBtn = document.getElementById('mobileMenuBtn');
 const mobileNav = document.getElementById('mobileNav');
 
